@@ -116,9 +116,9 @@ You can use TemmieWebhook with Maven by using Jitpack. (sorry, I don't have a ma
 ```
 ```
 <dependency>
-    <groupId>com.github.MrPowerGamerBR</groupId>
-	<artifactId>TemmieWebhook</artifactId>
-	<version>-SNAPSHOT</version>
+    <groupId>com.github.ByteList</groupId>
+    <artifactId>TemmieWebhook</artifactId>
+    <version>59de40c3b6</version>
 </dependency>
 ```
 ### Dependencies
